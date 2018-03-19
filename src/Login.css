@@ -1,0 +1,22 @@
+#formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa;
+}
+
+#login-form {
+  border: 1px solid #e6e6e6;
+  border-radius: 1px;
+  margin: 0 0 10px;
+  padding: 30px;
+  max-width: 350px;
+}
+
+.int {
+  position: relative;
+  display: block;
+  margin: 0 0 10px;
+  width: 100%;
+}
